@@ -110,10 +110,3 @@ Modular React frontend and Node.js backend architecture for a role-based departm
 **Stack:** React, Node.js, Express, MongoDB
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DHYEYPATL&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHYEYPATL&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-</div>
