@@ -18,7 +18,7 @@ Machine Learning • Backend Engineering • Applied AI
 CS undergrad at MIT Manipal working on ML systems, backend services, and computer vision pipelines.
 
 **Selected achievements:**  
-- **2nd Runner-Up** — WatchTowerX Hackathon  
+- **2nd Runner-Up** —at Codebot IISC-B Hackathon  
 - **Semifinalist** — GHCI Hackathon    
 - Research paper under review in medical imaging AI
 
