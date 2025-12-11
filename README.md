@@ -83,8 +83,8 @@ Hybrid SSL + EfficientNet MRI classifier with Grad-CAM explanations and uncertai
 
 ---
 
-### **[CalcBERT — Transaction Categorizer](https://github.com/DHYEYPATL/CalcBERT)**
-Dockerized FastAPI service for offline transaction classification with high precision and low latency, designed for practical finance automation. **Hackathon Semifinalist.**
+### **[CalcBERT — Transaction Categorizer](https://github.com/DHYEYPATL/CalcBERT)** **(Semifinalist)**
+Dockerized FastAPI service for offline transaction classification with high precision and low latency, designed for practical finance automation.
 
 **Stack:** Python, FastAPI, scikit-learn, Docker, React
 
@@ -97,8 +97,8 @@ Real-time parking spot detection pipeline using YOLOv8 and OpenCV, optimized for
 
 ---
 
-### **WatchTowerX — Surveillance Intelligence Platform**
-Scalable ML-powered surveillance prototype delivering real-time alerts and cloud-ready backend components. **2nd Runner-Up at WatchTowerX Hackathon.**
+### **WatchTowerX — Surveillance Intelligence Platform** **(2nd Runner-Up at Codebot IISC-B Hackathon)**
+Scalable ML-powered surveillance prototype delivering real-time alerts and cloud-ready backend components. 
 
 **Stack:** Python, ML models, Cloud integration
 
